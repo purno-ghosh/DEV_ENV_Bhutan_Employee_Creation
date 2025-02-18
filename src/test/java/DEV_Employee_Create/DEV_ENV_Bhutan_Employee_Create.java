@@ -238,7 +238,7 @@ public class DEV_ENV_Bhutan_Employee_Create {
         Select_Role.click();
         Next.click();
         Click_Finish.click();
-
+//purna
         File file = new File("testData.txt");
          try (BufferedWriter writer = new BufferedWriter(new FileWriter(file))) {
             writer.write("lastName=" + lastName + "\n");
