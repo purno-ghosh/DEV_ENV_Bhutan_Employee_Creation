@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Hr Autmation">
+    <test name="Admin Login">
+        <classes >
+            <class name="DEV_Employee_Create.DEV_ENV_Bhutan_Employee_Create_Runner">
+            </class>
+        </classes>
+    </test>
+</suite>
